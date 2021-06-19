@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-streams-minstd-shuffle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a readable stream for a linear congruential pseudorandom number generator (LCG) whose output is shuffled.",
   "license": "Apache-2.0",
   "author": {
